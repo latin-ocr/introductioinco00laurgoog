@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./introductioinco00laurgoog_0005.png"; bbox 0 0 3355 5328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 349 2174 3002 2292">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 349 2174 3002 2292">
+     <span class='ocr_line' id='line_1_1' title="bbox 349 2174 3002 2292; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 349 2176 1188 2292; x_wconf 80' lang='lat' dir='ltr'>INTRODUOTIO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1244 2176 1386 2288; x_wconf 92' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1444 2175 1918 2291; x_wconf 81' lang='lat' dir='ltr'>CORPUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1976 2174 2342 2290; x_wconf 78' lang='lat' dir='ltr'><strong>JURIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2398 2174 3002 2290; x_wconf 80' lang='lat' dir='ltr'><strong>GANONIGI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1434 2525 1910 2566">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1434 2525 1910 2566">
+     <span class='ocr_line' id='line_1_2' title="bbox 1434 2525 1910 2566; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1434 2526 1556 2566; x_wconf 75' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1583 2525 1838 2564; x_wconf 81' lang='lat' dir='ltr'>PPPPPPP</span> <span class='ocrx_word' id='word_1_8' title='bbox 1840 2526 1910 2565; x_wconf 80' lang='lat' dir='ltr'><strong>OE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 693 2706 2649 2776">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 693 2706 2649 2776">
+     <span class='ocr_line' id='line_1_3' title="bbox 693 2706 2649 2776; baseline 0.004 -17"><span class='ocrx_word' id='word_1_9' title='bbox 693 2706 991 2761; x_wconf 85' lang='lat' dir='ltr'>BREVEM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1026 2707 1677 2776; x_wconf 85' lang='lat' dir='ltr'>INTRODUCTIONEM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1714 2708 1791 2761; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1830 2706 2108 2763; x_wconf 88' lang='lat' dir='ltr'>CORPUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 2148 2710 2349 2765; x_wconf 88' lang='lat' dir='ltr'><strong>JURIS</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2391 2711 2513 2766; x_wconf 88' lang='lat' dir='ltr'><strong>CIV</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2513 2710 2649 2765; x_wconf 84' lang='lat' dir='ltr'>ILIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1474 2909 1859 2951">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1474 2909 1859 2951">
+     <span class='ocr_line' id='line_1_4' title="bbox 1474 2909 1859 2951; baseline 0.003 -1"><span class='ocrx_word' id='word_1_16' title='bbox 1474 2909 1859 2951; x_wconf 72' lang='lat' dir='ltr'>CONTINENTE.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
